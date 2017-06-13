@@ -54,16 +54,11 @@
 ##a[href*="origo-online.net"]
 ##a[href*="palyazatfigyelo.info"]
 ##a[href*="pluszcafe.hu"]
-##a[href*="popec.net"]
 ##a[href*="szupertanacsok.blog.hu"]
-##a[href*="szabadonebredok.info"]
 ##a[href*="szemlelo.com"]
 ##a[href*="tenyek24.net"]
-##a[href*="tophirek.hu"]
-##a[href*="tricikli.com"]
 ##a[href*="tudasfaja.com"]
 ##a[href*="ujvilagtudat.blogspot.hu"]
-##a[href*="vakarek.info"]
 ##a[href*="vattacukor.net"]
 ##a[href*="vicces-humoros.com"]
 ##a[href*="vidnline.com"]
@@ -77,3 +72,7 @@
 ##a[href*="tenyek24.eu"]
 ##a[href*="tudnodkell.info"]
 ##a[href*="a-znewsonline.com"]
+!
+!https://hup.hu/node/153781
+!
+##a[href*="mindenegyben.com"]
