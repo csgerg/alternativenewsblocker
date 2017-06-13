@@ -76,3 +76,7 @@
 !https://hup.hu/node/153781
 !
 ##a[href*="mindenegyben.com"]
+!
+!megtekintéshez megosztás szükséges
+!
+##a[href*="http://dosszie.com"]
