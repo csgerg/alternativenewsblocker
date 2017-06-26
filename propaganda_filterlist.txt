@@ -1,0 +1,59 @@
+[Adblock Plus 2.0]
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!Title: ANB PropagandaSTOP
+!Homepage: https://github.com/csgerg/alternativenewsblocker/wiki
+!Licence: GPLv3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! szabaly optimalizalas / rule optimization
+!
+! - http://adblockplus.org/en/filters
+! - Redundancy checker: https://arestwo.org/famlam/redundantRuleChecker.html
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                       ANB PropagandaSTOP                                 !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!
+!https://tldr.444.hu/2017/05/18/fideszmedia
+!
+!Modern Media
+!
+##a[href*="origo.hu"]
+##a[href*="lokal.hu"]
+##a[href*="888.hu"]
+##a[href*="figyelo.hu"]
+##a[href*="ripost.hu"]
+##a[href*="tv2.hu"]
+##a[href*="radio1.hu"]
+##a[href*="nwmgroup.hu"]
+!
+!Közvélemény kutatók
+!
+##a[href*="szazadveg.hu"]
+##a[href*="nezopontintezet.hu"]
+!
+!Kormány (nemzeti konzultáció)
+!
+##a[href*="kormany.hu"]
+!
+!Közmédia
+!
+##a[href*="mtva.hu"]
+!
+!Mediaworks
+!
+##a[href*="echotv.hu"]
+##a[href*="magyaridok.hu"]
+##a[href*="karcfm.hu"]
+##a[href*="mediaworks.hu"]
+##a[href*="bama.hu"]
+##a[href*="heol.hu"]
+##a[href*="baon.hu"]
+##a[href*="beol.hu"]
+##a[href*="keol.hu"]
+##a[href*="kemma.hu"]
+##a[href*="teol.hu"]
+##a[href*="teol.hu"]
+##a[href*="sonline.hu"]
+##a[href*="szoljon.hu"]
