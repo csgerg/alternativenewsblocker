@@ -80,3 +80,7 @@
 !megtekintéshez megosztás szükséges
 !
 ##a[href*="http://dosszie.com"]
+!
+!egyéb
+!
+##a[href*="http://www.fm3cafe.hu"]
