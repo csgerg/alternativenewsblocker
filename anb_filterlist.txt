@@ -81,6 +81,7 @@
 !
 ##a[href*="dosszie.com"]
 !
-!egyéb
+!oldalak a facebookról
 !
 ##a[href*="fm3cafe.hu"]
+##a[href*="magyarkozosseg.net"]
