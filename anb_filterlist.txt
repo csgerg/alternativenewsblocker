@@ -85,4 +85,4 @@
 !
 ##a[href*="fm3cafe.hu"]
 ##a[href*="magyarkozosseg.net"]
-##a[href*="utcaemberek.blogspot.hu"]
+##a[href*="utcaemberek.blogspot.com"]
