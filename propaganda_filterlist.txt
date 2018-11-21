@@ -41,6 +41,10 @@
 !
 ##a[href*="figyelo.hu"]
 !
+! Ungár Péter (LMP)
+!
+##a[href*="azonnali.hu"]
+!
 ! Andy Vajna
 !
 ##a[href*="kisalfold.hu"]
@@ -156,3 +160,41 @@
 ##a[href*="rtv.rs"]
 ##a[href*="m4sport.hu"]
 ##a[href*="mediaklikk.hu"]
+!
+! Fidesz és szatellitpártjai
+!
+##a[href*="fidesz.hu"]
+##a[href*="kdnp.hu"]
+##a[href*="mszp.hu"]
+##a[href*="dkp.hu"]
+##a[href*="lehetmas.hu"]
+##a[href*="mihazank.hu"]
+##a[href*="jobbik.hu"]
+!
+! Kamupárok 2018.
+! https://atlatszo.hu/2018/03/21/itt-a-lista-olvasoink-szerint-ezek-a-kamupartok-csaltak-az-alairasaikkal/
+!
+!facebook.com/szempart/
+!facebook.com/KozosNevezo/
+##a[href*="kozosnevezo.hu"]
+!facebook.com/EuropaiRomaKeresztenyekJobbleteertDemokratikusPart/
+!facebook.com/IranytuPart/
+##a[href*="iranytupart.hu"]
+!facebook.com/NetPart/
+##a[href*="netpart.hu"]
+!MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA
+!facebook.com/kosszpart/
+!REND ÉS ELSZÁMOLTATÁS PÁRT
+##a[href*="www.miepinfo.hu"]
+##a[href*="www.eredetimiep.hu"]
+!facebook.com/csaladokpartja/
+##a[href*="csaladokpartja.hu"]
+!facebook.com/osszefogaspart/ (megszűnt)
+##a[href*="osszefogaspart.hu"]
+!facebook.com/emmopart.hu/
+!Haza Mindenkié Párt
+!facebook.com/nempart/
+!facebook.com/A-MI-P%C3%A1rtunk-IMA-Sz%C3%A1va-Vince-1991075427574302/?rc=p
+!facebook.com/hajrapart/
+!facebook.com/H%C3%A1tr%C3%A1nyos-Helyzet%C5%B1ek-P%C3%A1rtja-2315096182050145/
+!facebook.com/lendulettel/
