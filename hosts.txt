@@ -489,7 +489,7 @@
 0.0.0.0 wikispooks.com
 0.0.0.0 worldnewspolitics.com
 0.0.0.0 worldpolitics.us
-0.0.0.0 www.fort-russ.com
+0.0.0.0 fort-russ.com
 0.0.0.0 yournewswire.com
 0.0.0.0 zerohedge.com
 0.0.0.0 techjobs.hu
