@@ -2,7 +2,7 @@
 
 Azoknak, akik unják már a kollektív agymosást és mást is szeretnék megóvni. Mindenki védjen meg egy nagymamát és egy nagypapát!
 
-Eredetileg csgerg(https://github.com/csgerg/alternativenewsblocker) listáját használtam, de az kb. 1 éve nem frissül.
+Eredetileg [csgerg / anb](https://github.com/csgerg/alternativenewsblocker) listáját használtam, de az kb. 1 éve nem frissül(t).
 
 A feliratkozáshoz a következő böngésző-kiegészítők valamelyikét szükséges telepíteni:
 [uBlock Origin](https://github.com/gorhill/uBlock) | [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core) | [Adblock Plus](https://adblockplus.org/)
