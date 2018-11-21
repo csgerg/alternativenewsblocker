@@ -1,5 +1,11 @@
 # Álhír/propaganda szűrőlisták
-A feliratkozáshoz a következő böngésző-kiegészítők valamelyikét szükséges telepíteni: [uBlock Origin](https://github.com/gorhill/uBlock) | [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core) | [Adblock Plus](https://adblockplus.org/)
+
+Azoknak, akik unják már a kollektív agymosást és mást is szeretnék megóvni. Mindenki védjen meg egy nagymamát és egy nagypapát!
+
+Eredetileg csgerg(https://github.com/csgerg/alternativenewsblocker) listáját használtam, de az kb. 1 éve nem frissül.
+
+A feliratkozáshoz a következő böngésző-kiegészítők valamelyikét szükséges telepíteni:
+[uBlock Origin](https://github.com/gorhill/uBlock) | [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core) | [Adblock Plus](https://adblockplus.org/)
 ## feliratkozás folyamata:
 Az alábbi hivatkozásokra kattintás után a "Proceed to this site." linkre kell kattintani, újfent.
 - [ANB aka AlternativeNewsBlocker](https://preview.tinyurl.com/t1csiAltNewsBlk)
