@@ -609,7 +609,7 @@
 0.0.0.0 kozosnevezo.hu
 0.0.0.0 iranytupart.hu
 0.0.0.0 netpart.hu
-0.0.0.0 www.miepinfo.hu
-0.0.0.0 www.eredetimiep.hu
+0.0.0.0 miepinfo.hu
+0.0.0.0 eredetimiep.hu
 0.0.0.0 csaladokpartja.hu
 0.0.0.0 osszefogaspart.hu
