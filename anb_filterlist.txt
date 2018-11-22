@@ -538,7 +538,7 @@
 ##a[href*="wikispooks.com"]
 ##a[href*="worldnewspolitics.com"]
 ##a[href*="worldpolitics.us"]
-##a[href*="www.fort-russ.com"]
+##a[href*="fort-russ.com"]
 ##a[href*="yournewswire.com"]
 ##a[href*="zerohedge.com"]
 !
