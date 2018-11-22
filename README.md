@@ -30,7 +30,7 @@ Az alábbi hivatkozásokra kattintás után a "Proceed to this site." linkre kel
 Az egyéni lista hozzáadásakor be kell másolni az alábbi hivatkozást:
 [ANB host file](https://raw.githubusercontent.com/t1csi/alternativenewsblocker/master/hosts.txt)
 
-## Tennivalók, tervek
+#### Tennivalók, tervek, 5letek
 - kamupártok FB oldalainak felvétele/felderítése
 - álhíroldalak FB jelenlétének feltérképezése
 - oldalak elérhetőségének (fél)automatikus ellenőrzése (curl -Is, ha nem 404, akkor webkit2png | CutyCapt)
