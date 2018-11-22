@@ -6,11 +6,11 @@ A lista két részre van bontva
 A magyar vonatkozású álhír-oldalak blokkolásához a következő forrásokat használtam fel:
 - [MKKP Putin Alert](https://ketfarkukutya.com/?p=505)
 - Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/)
-- HVG Tech rovat folyamatosan frissülő [gyűjtése](https://hvg.hu/tudomany/20150119_atveros_weboldalak)
+- HVG Tech rovat folyamatosan frissülő gyűjtése: https://hvg.hu/tudomany/20150119_atveros_weboldalak
 - Külföldi árhírek szűréséhez [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html) listája került beépítésre
 
-2. ANB PropagandaSTOP a kormány & kormányközeli média és azok egyéb függelékeinek, pl pártok oldalainak a blokkolását célozza
-Ehhez forrásként a [444.hu](https://tldr.444.hu/2017/05/18/fideszmedia) és az [Átlátszó.hu](https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/) anyagait használtam fel.
+2. ANB PropagandaSTOP a teljes kormány & kormányközeli média és azok egyéb függelékeinek, pl pártok oldalainak a blokkolását célozza. Nem csak a politkai témájú oldalak tartozank ide, hanem a teljes médiaportfólió: életmódmagazinok, főzős oldalak, stb. Az ok, amiért tiltólitára kerültek az az, hogy bármikor megjelenhet propaganda-célú tartalom az oldalakon.
+A gyűjtéshez forrásként a [444.hu](https://tldr.444.hu/2017/05/18/fideszmedia) és az [Átlátszó.hu](https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/) anyagait használtam fel.
 
 A listák forrásául szolgáló anyagok/oldalak fel vannak tüntetve a lista kikommentelt részeiben is. 
 
