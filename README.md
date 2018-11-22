@@ -10,7 +10,7 @@ A következő forrásokat használtam fel:
 - [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html) (idegen nyelvű)
 - https://hup.hu/node/153781#comment-2106289
 
-2. ANB PropagandaSTOP a teljes kormány- & kormányközeli média és azok egyéb függelékeinek, pl szatellit&kamupártok oldalainak a blokkolását célozza. Nem csak a közéleti tematikájú oldalak tartoznak ide, hanem a teljes paletta: életmódmagazinok, főzős oldalak, stb. Az ok, amiért tiltólitára kerültek az egyszerűen az: bármikor megjelenhet propaganda-célú tartalom az oldalakon. Egyszerűbben: csak!
+2. ANB PropagandaSTOP a teljes kormány- & kormányközeli média és azok egyéb függelékeinek, pl szatellit&kamupártok oldalainak a blokkolását célozza. Nem csak a közéleti tematikájú oldalak tartoznak ide, hanem a teljes paletta: életmódmagazinok, főzős oldalak, stb. Az ok, amiért tiltólitára került minden, egyszerűen az: bármikor megjelenhet propaganda-célú tartalom az oldalakon. Egyszerűbben: Mert, csak!
 
 A gyűjtéshez forrásként a [444.hu](https://tldr.444.hu/2017/05/18/fideszmedia) és az [Átlátszó.hu](https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/) [[2]](https://atlatszo.hu/2018/03/21/itt-a-lista-olvasoink-szerint-ezek-a-kamupartok-csaltak-az-alairasaikkal/) anyagait használtam fel.
 
