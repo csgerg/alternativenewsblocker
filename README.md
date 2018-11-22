@@ -3,9 +3,9 @@
 Eredetileg [csgerg / anb](https://github.com/csgerg/alternativenewsblocker) listáját használtam, de az kb. 1 éve nem frissül(t).
 
 A listák forrásául szolgáló anyagok/oldalak fel vannak tüntetve a lista kikommentelt részeiben is.
-- A HVG Tech rovatának átverős oldalakkal foglalkozó [cikke](http://hvg.hu/tudomany/20150119_atveros_weboldalak) (rendszeresen frissül) 
-- [MKKP Putin Alert](http://ketfarkukutya.com/?p=505)
-- Urbanlegends http://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/
+- A HVG Tech rovatának átverős oldalakkal foglalkozó [írása](https://hvg.hu/tudomany/20150119_atveros_weboldalak/) /rendszeresen frissül/
+- [MKKP Putin Alert](https://ketfarkukutya.com/?p=505)
+- Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/)
 
 A feliratkozáshoz a következő böngésző-kiegészítők valamelyikét szükséges telepíteni:
 [uBlock Origin](https://github.com/gorhill/uBlock) | [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core) | [Adblock Plus](https://adblockplus.org/)
