@@ -7,7 +7,7 @@ A magyar vonatkozású álhír-oldalak blokkolásához a következő forrásokat
 - [MKKP Putin Alert](https://ketfarkukutya.com/?p=505)
 - Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/)
 - HVG Tech rovat folyamatosan frissülő gyűjtése: hvg.hu/tudomany/20150119_atveros_weboldalak
-Külföldi árhírek szűréséhez:
+ Külföldi árhírek szűréséhez:
 - [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html) listája került beépítésre
 
 2. ANB PropagandaSTOP a teljes kormány- & kormányközeli média és azok egyéb függelékeinek, pl pártok oldalainak a blokkolását célozza. Nem csak a közéleti tematikájú oldalak tartozank ide, hanem a teljes médiaportfólió: életmódmagazinok, főzős oldalak, stb. Az ok, amiért tiltólitára kerültek az egyszerűen az: bármikor megjelenhet propaganda-célú tartalom az oldalakon. Egyszerűbben: csak!
