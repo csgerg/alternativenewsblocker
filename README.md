@@ -3,7 +3,7 @@
 Eredetileg [csgerg / anb](https://github.com/csgerg/alternativenewsblocker) listáját használtam, de az kb. 1 éve nem frissül(t).
 
 A listák forrásául szolgáló anyagok/oldalak fel vannak tüntetve a lista kikommentelt részeiben is.
-- A HVG Tech rovatának átverős oldalakkal foglalkozó [írása](https://hvg.hu/tudomany/20150119_atveros_weboldalak/) /rendszeresen frissül/
+- A HVG Tech rovatának átverős oldalakkal foglalkozó, 2015-óta rendszeresen frissülő [írása](https://hvg.hu/tudomany/20150119_atveros_weboldalak/)
 - [MKKP Putin Alert](https://ketfarkukutya.com/?p=505)
 - Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/)
 
