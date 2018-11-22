@@ -5,9 +5,9 @@ A lista két részre van bontva
 1. AlternativeNewsBlocker szolgál a magyar nyelvű álhírek, illetve az idegen nyelvű, főképpen orosz propaganda-oldalak szűrésére.
 A következő forrásokat használtam fel:
 - [MKKP Putin Alert](https://ketfarkukutya.com/?p=505) (magyar)
-- Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/) (magyar)
-- HVG Tech rovat folyamatosan frissülő gyűjtése: hvg.hu/tudomany/20150119_atveros_weboldalak (magyar)
-- [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html) (idegen nyelvű)
+- Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/). (magyar)
+- HVG Tech rovat folyamatosan frissülő [gyűjtése](https://hvg.hu/tudomany/20150119_atveros_weboldalak). (magyar)
+- [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html). (idegen nyelvű)
 
 2. ANB PropagandaSTOP a teljes kormány- & kormányközeli média és azok egyéb függelékeinek, pl (kamu)pártok oldalainak a blokkolását célozza. Nem csak a közéleti tematikájú oldalak tartozank ide, hanem a teljes paletta: életmódmagazinok, főzős oldalak, stb. Az ok, amiért tiltólitára kerültek az egyszerűen az: bármikor megjelenhet propaganda-célú tartalom az oldalakon. Egyszerűbben: csak!
 
