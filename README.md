@@ -33,3 +33,4 @@ Az egyéni lista hozzáadásakor be kell másolni az alábbi hivatkozást:
 ## Tennivalók, tervek
 - kamupártok FB oldalainak felvétele/felderítése
 - álhíroldalak FB jelenlétének feltérképezése
+- oldalak elérhetőségének (fél)automatikus ellenőrzése (curl -Is, ha nem 404, akkor webkit2png | CutyCapt)
