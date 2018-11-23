@@ -4,7 +4,7 @@ Az eredeti változat [csgerg](https://github.com/csgerg/alternativenewsblocker) 
 A lista két részre van bontva
 1. AlternativeNewsBlocker szolgál a magyar nyelvű álhírek, illetve az idegen nyelvű, főképpen orosz propaganda-oldalak szűrésére.
 A következő forrásokat használtam fel:
-- [MKKP Putin Alert](https://ketfarkukutya.com/?p=505) (magyar)
+- [MKKP Putin Alert](https://ketfarkukutya.com/?p=505) & [MMKP Hoax Radar](http://ketfarkukutya.com/?p=9742) (magyar) 
 - Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/) (magyar)
 - HVG Tech rovat folyamatosan frissülő [gyűjtése](https://hvg.hu/tudomany/20150119_atveros_weboldalak) (magyar)
 - [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html) (idegen nyelvű)
@@ -24,11 +24,17 @@ Az alábbi hivatkozásokra kattintás után a "Proceed to this site." linkre kel
 - [ANB aka AlternativeNewsBlocker](https://preview.tinyurl.com/t1csiAltNewsBlk)
 - [ANB PropagandaSTOP](https://preview.tinyurl.com/t1csiPropSTOP) 
 
+Lehetőség van host alapú tiltásra is: [ANB host file](https://raw.githubusercontent.com/t1csi/alternativenewsblocker/master/hosts.txt)
+
+Windows tulajdonosoknak javaslom a köv. oldalakat tájékozódni ebben a témában: [Blocking Unwanted Connections with a Hosts File](http://winhelp2002.mvps.org/hosts.htm) [HOSTS](https://github.com/StevenBlack/hosts) [WinSpyBlocker](https://github.com/winspyblocker)
+
 ## Feliratkozás android rendszerű mobiltelefonon:
-Érdemes [F-droid](https://f.droid.org) tárolót használni. A használathoz fel kell rakni, root-olt telefon esetén az [Adaway-t](https://f-droid.org/en/packages/org.adaway/), root nélküli készüléknél a következők bármelyikét ízléstől és egyéni preferenciától függően: [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) | [Blokada](https://f-droid.org/en/packages/org.blokada.alarm/) | [Netguard](https://f-droid.org/en/packages/eu.faircode.netguard/) | [AdGuard](https://f-droid.org/en/packages/com.adguard.android.contentblocker/)
+Érdemes [F-droid](https://f-droid.org) tárolót használni. A használathoz fel kell rakni, root-olt telefon esetén az [Adaway-t](https://f-droid.org/en/packages/org.adaway/), root nélküli készüléknél a következők bármelyikét ízléstől és egyéni preferenciától függően: [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) | [Blokada](https://f-droid.org/en/packages/org.blokada.alarm/) | [Netguard](https://f-droid.org/en/packages/eu.faircode.netguard/) | [AdGuard](https://f-droid.org/en/packages/com.adguard.android.contentblocker/)
 
 Az egyéni lista hozzáadásakor be kell másolni az alábbi hivatkozást:
 [ANB host file](https://raw.githubusercontent.com/t1csi/alternativenewsblocker/master/hosts.txt)
+
+Ezen kívül Androidon a [Fennec Browser](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) támogatja az asztali rendszereken megszokott böngésző-alapú szűrést.
 ____________________________________________________________________
 #### Tennivalók, tervek, 5letek
 - kamupártok FB oldalainak felvétele/felderítése
