@@ -127,6 +127,13 @@
 ##a[href*="lifetvmedia.hu"]
 ##a[href*="ozonetvmedia.hu"]
 !
+! Menetrendek.hu, kopopnyeg.hu vs-telenites
+!
+koponyeg.hu###vshu-box
+menetrendek.hu##.articles
+menetrendek.hu##.proposer
+menetrendek.hu##.read_vs
+!
 ! Habony Árpád, Ómolnár Miklós, Bencsik és mások...
 !
 ##a[href*="lokal.hu"]
