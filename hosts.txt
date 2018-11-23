@@ -56,7 +56,6 @@
 0.0.0.0 eztnezdmeg.info
 0.0.0.0 eztnezdmeg.net
 0.0.0.0 ez-zsir.net
-0.0.0.0 facebook.com/bakkecske.net
 0.0.0.0 face-nemzedek.com
 0.0.0.0 fejezet.com
 0.0.0.0 figyelo-net.com
@@ -647,8 +646,6 @@
 0.0.0.0 eznemsemmilehet.blogspot.hu
 0.0.0.0 eztlatnodkell.xyz
 0.0.0.0 eztlesd.top
-0.0.0.0 facebook.com/OLKT.hu
-0.0.0.0 facebook.com/Vadhajtasok
 0.0.0.0 felhivasok.com
 0.0.0.0 fenyorveny.hu
 0.0.0.0 fmradio88.blogspot.hu
@@ -680,7 +677,6 @@
 0.0.0.0 hogyvolt.com
 0.0.0.0 jotemak.club
 0.0.0.0 oroszvilag.hu
-0.0.0.0 facebook.com/999-431539813720916
 0.0.0.0 hvq-online.com
 0.0.0.0 idovonal.com
 0.0.0.0 indexhir.com
@@ -708,7 +704,7 @@
 0.0.0.0 mindenegyhelyenblog.com
 0.0.0.0 mindenrolmost.blogspot.hu
 0.0.0.0 mivilagunk.com
-0.0.0.0 mokavilag.com/index.php
+0.0.0.0 mokavilag.com
 0.0.0.0 mosolyklubb.eu
 0.0.0.0 nagyonerdekes.com
 0.0.0.0 napicsaj.eu
@@ -736,9 +732,9 @@
 0.0.0.0 rtl-hirek2.blogspot.hu
 0.0.0.0 sarcasmlol.eu
 0.0.0.0 sputniknews.com
-0.0.0.0 storyvilag.com/hu
+0.0.0.0 storyvilag.com
 0.0.0.0 szinesvidek.blogspot.hu
-0.0.0.0 sztorivilag.com/hu
+0.0.0.0 sztorivilag.com
 0.0.0.0 szupertanacsokblog.hu
 0.0.0.0 tamogatas.net
 0.0.0.0 top-hirek.com
