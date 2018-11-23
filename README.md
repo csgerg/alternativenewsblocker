@@ -4,7 +4,7 @@ Az eredeti változat [csgerg](https://github.com/csgerg/alternativenewsblocker) 
 A lista két részre van bontva
 1. AlternativeNewsBlocker szolgál a magyar nyelvű álhírek, illetve az idegen nyelvű, főképpen orosz propaganda-oldalak szűrésére.
 A következő forrásokat használtam fel:
-- [MKKP Putin Alert](https://ketfarkukutya.com/?p=505) & [MMKP Hoax Radar](http://ketfarkukutya.com/?p=9742) (magyar) 
+- [MKKP Putin Alert](https://ketfarkukutya.com/?p=505) & [MKKP Hoax Radar](http://ketfarkukutya.com/?p=9742) (magyar) 
 - Urbanlegends.hu vonatkozó [gyűjtése](https://www.urbanlegends.hu/2018/01/megteveszto_atveros_magyar_oldalak_kamuhirek_lista_2018/) (magyar)
 - HVG Tech rovat folyamatosan frissülő [gyűjtése](https://hvg.hu/tudomany/20150119_atveros_weboldalak) (magyar)
 - [Is It Propaganda Or Not?](http://www.propornot.com/p/the-list.html) (idegen nyelvű)
