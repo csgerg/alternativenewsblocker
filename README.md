@@ -26,7 +26,7 @@ Az alábbi hivatkozásokra kattintás után a "Proceed to this site." linkre kel
 
 Lehetőség van host alapú tiltásra is: [ANB host file](https://raw.githubusercontent.com/t1csi/alternativenewsblocker/master/hosts.txt)
 
-Windows tulajdonosoknak javaslom a köv. oldalakat tájékozódni ebben a témában: [Blocking Unwanted Connections with a Hosts File](http://winhelp2002.mvps.org/hosts.htm) | [HOSTS](https://github.com/StevenBlack/hosts) | [WinSpyBlocker](https://github.com/winspyblocker)
+Windows tulajdonosoknak javaslom a köv. oldalakat tájékozódni ebben a témában: [Blocking Unwanted Connections with a Hosts File](http://winhelp2002.mvps.org/hosts.htm) | [SevenBlack/HOSTS](https://github.com/StevenBlack/hosts) | [WinSpyBlocker](https://github.com/winspyblocker)
 
 ## Feliratkozás android rendszerű mobiltelefonon:
 Érdemes [F-droid](https://f-droid.org) tárolót használni. A használathoz fel kell rakni, root-olt telefon esetén az [Adaway-t](https://f-droid.org/en/packages/org.adaway/), root nélküli készüléknél a következők bármelyikét ízléstől és egyéni preferenciától függően: [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) | [Blokada](https://f-droid.org/en/packages/org.blokada.alarm/) | [Netguard](https://f-droid.org/en/packages/eu.faircode.netguard/) | [AdGuard](https://f-droid.org/en/packages/com.adguard.android.contentblocker/)
