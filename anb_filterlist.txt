@@ -9,11 +9,9 @@
 !
 ! - http://adblockplus.org/en/filters
 ! - Redundancy checker: https://arestwo.org/famlam/redundantRuleChecker.html
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                       Alternative News Blocker                           !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 !
 ! http://hvg.hu/tudomany/20150119_atveros_weboldalak/
 ! http://ketfarkukutya.com/?p=505 (Putin Alert)
