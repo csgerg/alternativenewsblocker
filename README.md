@@ -37,9 +37,8 @@ Az egyéni lista hozzáadásakor be kell másolni az alábbi hivatkozást:
 Ezen kívül Androidon a [Fennec Browser](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) támogatja az asztali rendszereken megszokott böngésző-alapú szűrést.
 ____________________________________________________________________
 #### Tennivalók, tervek, 5letek
-- kamupártok FB oldalainak felvétele/felderítése
-- álhíroldalak FB jelenlétének feltérképezése
-- oldalak elérhetőségének (fél)automatikus ellenőrzése:
-..* Script az olyan oldalak kigyomláláshoz amelyek eleve nem is elérhetőek - egysorosakkal megoldható
-
-..* CutyCapt + script az elérhető oldalak 'viszonylag' gyors, manuális ellenőrzéséhez - **kész**
+* kamupártok FB oldalainak felvétele/felderítése
+* álhíroldalak FB jelenlétének feltérképezése
+* oldalak elérhetőségének (fél)automatikus ellenőrzése:
+  * Script az olyan oldalak kigyomláláshoz amelyek eleve nem is elérhetőek - egysorosakkal megoldható
+  * CutyCapt + script az elérhető oldalak 'viszonylag' gyors, manuális ellenőrzéséhez - **kész**
