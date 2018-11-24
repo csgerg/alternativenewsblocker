@@ -30,7 +30,7 @@ for url in $urls; do
   # Begin capture
   echo "Generating $filename..."
   CutyCapt --url="$url" --out="$output/$filename" \
-    --min-width=1280 --min-height=800 > /dev/null 2>&1
+    --min-width=1280 --min-height=800 --insecure > /dev/null 2>&1
   i=$(($i + 1))
 done
 
