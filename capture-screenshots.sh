@@ -1,6 +1,7 @@
 #!/bin/bash
 # I borrowed this script from here: 
 # https://gist.github.com/vvasabi/a266fc4e37e372a1ad8c
+# I using this to quickly 'validate' content of alive websites
 
 dir="$(pwd)"
 output="$dir/output"
