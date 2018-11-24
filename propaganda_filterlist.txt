@@ -9,123 +9,108 @@
 !
 ! - http://adblockplus.org/en/filters
 ! - Redundancy checker: https://arestwo.org/famlam/redundantRuleChecker.html
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                       ANB PropagandaSTOP                                 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 !
 !https://tldr.444.hu/2017/05/18/fideszmedia
 !https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/
 !
-! Pecina
+! Inform Média Lapkiadó Kft.
 !
-##a[href*="techjobs.hu"]
-##a[href*="szuperinfo.hu"]
+##a[href*="boon.hu"]
+##a[href*="eszak.hu"]
+##a[href*="gyaszhir.hu"]
+##a[href*="haon.hu"]
+##a[href*="inform.hu"]
 ##a[href*="informmedia.hu"]
 ##a[href*="kelet.hu"]
-##a[href*="eszak.hu"]
-##a[href*="vetesforgo.hu"]
-##a[href*="vasarnaptar.hu"]
-##a[href*="edenkert.hu"]
-##a[href*="gyaszhir.hu"]
 ##a[href*="mon.hu"]
 ##a[href*="naplo.hu"]
-##a[href*="topaukcio.hu"]
 ##a[href*="szon.hu"]
-##a[href*="haon.hu"]
-##a[href*="mon.hu"]
-##a[href*="boon.hu"]
+##a[href*="szuperinfo.hu"]
+##a[href*="techjobs.hu"]
+##a[href*="topaukcio.hu"]
 !
-! Schmidt Mária
+! K4A Lapkiadó (Schmidt Mária)
 !
 ##a[href*="figyelo.hu"]
+##a[href*="trendmagazin.hu"]
 !
-! Ungár Péter (LMP)
+! Lapcom Zrt, Tv2, stb (Andy Vajna)
 !
-##a[href*="azonnali.hu"]
-!
-! Andy Vajna
-!
-##a[href*="kisalfold.hu"]
-##a[href*="ingatlanbazar.hu"]
-##a[href*="borsonline.hu"]
 ##a[href*="autonavigator.hu"]
-##a[href*="tv2.hu"]
+##a[href*="borsonline.hu"]
+##a[href*="delmagyar.hu"]
+##a[href*="ingatlanbazar.hu"]
+##a[href*="kisalfold.hu"]
 ##a[href*="radio1.hu"]
 ##a[href*="retroradio.hu"]
-##a[href*="tv2.hu"]
 ##a[href*="tenyek.hu"]
-##a[href*="delmagyar.hu"]
+##a[href*="tv2.hu"]
 !
-! Széles Gábor
+! Magyar Hírlap Kiadói Kft. (Széles Gábor)
 !
 ##a[href*="magyarhirlap.hu"]
 !
-! Mediaworks - Mészáros Lőrinc
+! Mediaworks Hungary Zrt. (Mészáros Lőrinc)
 !
-##a[href*="vg.hu"]
-##a[href*="kemma.hu"]
-##a[href*="heol.hu"]
-##a[href*="baon.hu"]
-##a[href*="sonline.hu"]
-##a[href*="bama.hu"]
-##a[href*="fannykonyha.hu"]
-##a[href*="szoljon.hu"]
-##a[href*="teol.hu"]
-##a[href*="mainap.hu"]
-##a[href*="pink.hu"]
-##a[href*="tvmusor.hu"]
-##a[href*="designbazar.hu"]
-##a[href*="mindmegette.hu"]
-##a[href*="lakaskultura.hu"]
-##a[href*="automotor.hu"]
-##a[href*="beol.hu"]
-##a[href*="astronet.hu"]
-##a[href*="nemzetisport.hu"]
-##a[href*="dunantulinaplo.hu"]
-##a[href*="tolnainepujsag.hu"]
-##a[href*="ujneplap.hu"]
-##a[href*="somogyihirlap.hu"]
 ##a[href*="24ora.hu"]
-##a[href*="hevesmegyeihirlap.hu"]
+##a[href*="astronet.hu"]
+##a[href*="automotor.hu"]
+##a[href*="bama.hu"]
+##a[href*="baon.hu"]
+##a[href*="beol.hu"]
 ##a[href*="bmhirlap.hu"]
-##a[href*="petofinepe.hu"]
+##a[href*="csupasport.hu"]
+##a[href*="designbazar.hu"]
+##a[href*="dunantulinaplo.hu"]
+##a[href*="duol.hu"]
+##a[href*="echotv.hu"]
+##a[href*="f1csatorna.hu"]
+##a[href*="fannykonyha.hu"]
+##a[href*="feol.hu"]
 ##a[href*="fourfourtwo.hu"]
-##a[href*="vitorlazasmagazin.hu"]
-##a[href*="premiummagazin.hu"]
-##a[href*="regiohir.hu"]
+##a[href*="gongradio.hu"]
+##a[href*="heol.hu"]
+##a[href*="hevesmegyeihirlap.hu"]
+##a[href*="hirtv.hu"]
+##a[href*="jegyed.hu"]
+##a[href*="karcfm.hu"]
+##a[href*="kemma.hu"]
+##a[href*="lakaskultura.hu"]
+##a[href*="lapcentrum.hu"]
 ##a[href*="licitaljram.hu"]
 ##a[href*="likebalaton.hu"]
-##a[href*="duol.hu"]
-##a[href*="feol.hu"]
-##a[href*="vaol.hu"]
-##a[href*="nool.hu"]
-##a[href*="lapcentrum.hu"]
-##a[href*="jegyed.hu"]
-##a[href*="csupasport.hu"]
-##a[href*="veol.hu"]
-##a[href*="zaol.hu"]
-##a[href*="f1csatorna.hu"]
 ##a[href*="magyaridok.hu"]
-##a[href*="hirtv.hu"]
-##a[href*="echotv.hu"]
+##a[href*="mainap.hu"]
+##a[href*="mindmegette.hu"]
+##a[href*="nemzetisport.hu"]
+##a[href*="nool.hu"]
 ##a[href*="partfm.hu"]
-##a[href*="gongradio.hu"]
-##a[href*="karcfm.hu"]
+##a[href*="petofinepe.hu"]
+##a[href*="pink.hu"]
+##a[href*="premiummagazin.hu"]
+##a[href*="regiohir.hu"]
+##a[href*="somogyihirlap.hu"]
+##a[href*="sonline.hu"]
+##a[href*="szoljon.hu"]
+##a[href*="teol.hu"]
+##a[href*="tolnainepujsag.hu"]
+##a[href*="tvmusor.hu"]
+##a[href*="ujneplap.hu"]
+##a[href*="vaol.hu"]
+##a[href*="veol.hu"]
+##a[href*="vg.hu"]
+##a[href*="vitorlazasmagazin.hu"]
+##a[href*="zaol.hu"]
 !
-! New Wave Media - Matolcsy Ádám
+! Modern Media Group  (Habony Árpád)
 !
-##a[href*="nwmgroup.hu"]
-##a[href*="origo.hu"]
-##a[href*="life.hu"]
-##a[href*="travelo.hu"]
-##a[href*="investor.hu"]
-##a[href*="uzletresz.hu"]
-##a[href*="she.hu"]
-##a[href*="vs.hu"]
-##a[href*="lifetvmedia.hu"]
-##a[href*="ozonetvmedia.hu"]
+##a[href*="888.hu"]
+##a[href*="lokal.hu"]
+!
+! New Wave Media (Matolcsy Ádám)
 !
 ! Menetrendek.hu, kopopnyeg.hu vs-telenites
 !
@@ -133,18 +118,38 @@ koponyeg.hu###vshu-box
 menetrendek.hu##.articles
 menetrendek.hu##.proposer
 menetrendek.hu##.read_vs
+##a[href*="investor.hu"]
+##a[href*="life.hu"]
+##a[href*="lifetvmedia.hu"]
+##a[href*="nwmgroup.hu"]
+##a[href*="origo.hu"]
+##a[href*="ozonetvmedia.hu"]
+##a[href*="she.hu"]
+##a[href*="travelo.hu"]
+##a[href*="uzletresz.hu"]
+##a[href*="vs.hu"]
 !
-! Habony Árpád, Ómolnár Miklós, Bencsik és mások...
+! Ripost Média Szolgáltató és Kommunikációs Kft. / Nouvelle Media Kft. (Ómolnár Miklós)
 !
-##a[href*="lokal.hu"]
-##a[href*="888.hu"]
-##a[href*="ripost.hu"]
 ##a[href*="faktor.hu"]
-##a[href*="pestisracok.hu"]
-##a[href*="demokrata.hu"]
-##a[href*="mandiner.hu"]
+##a[href*="ripost.hu"]
+!
+! Ungár Péter (LMP)
+!
+##a[href*="azonnali.hu"]
+!
+! És sokan mások...
+!
 ##a[href*="blogstar.hu"]
+##a[href*="demokrata.hu"]
+##a[href*="hungaryfirst.hu"]
+##a[href*="mandiner.hu"]
+##a[href*="pestisracok.hu"]
+##a[href*="polgarportal.hu"]
+##a[href*="promenad.hu"]
 ##a[href*="szegedma.hu"]
+##a[href*="vasarhely24.com"]
+##a[href*="vasarhelyitv.hu"]
 !
 ! Plakátcégek
 !
@@ -169,6 +174,7 @@ menetrendek.hu##.read_vs
 ##a[href*="m4sport.hu"]
 ##a[href*="mediaklikk.hu"]
 !
+! Social media
 ! MKKP Hoax Radar gyűjtése https://mkkp-hoax-radar.lazos.me/
 !
 ##a[href*="facebook.com/hirtv"]
@@ -194,14 +200,6 @@ menetrendek.hu##.read_vs
 ##a[href*="facebook.com/echotelevizio"]
 ##a[href*="facebook.com/Mélymagyar-és-vegyes-Echo-TV-1839650239594481"]
 ##a[href*="facebook.com/magyaridoknapilap"]
-##a[href*="hungaryfirst.hu"]
-##a[href*="tuzfalcsoport.blogstar.hu"]
-##a[href*="mindenszo.hu"]
-##a[href*="facebook.com/MindenSzo"]
-##a[href*="polgarportal.hu"]
-##a[href*="vasarhely24.com"]
-##a[href*="promenad.hu"]
-##a[href*="vasarhelyitv.hu"]
 !
 ! Fidesz és szatellitpártjai
 !
@@ -214,7 +212,6 @@ menetrendek.hu##.read_vs
 ##a[href*="jobbik.hu"]
 !
 ! Kamupárok 2018.
-! https://atlatszo.hu/2018/03/21/itt-a-lista-olvasoink-szerint-ezek-a-kamupartok-csaltak-az-alairasaikkal/
 !
 !facebook.com/szempart/
 !facebook.com/KozosNevezo/
