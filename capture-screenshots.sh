@@ -12,6 +12,11 @@ fi
 
 urls=`cat "$1"`
 
+if [ -z "$*" ]; then 
+  echo "Hey, feed the script with file! :)"
+  echo "./capture-screenshot.sh bunchofurl.txt"
+fi
+
 i=1
 for url in $urls; do
   # Convert url to file name
