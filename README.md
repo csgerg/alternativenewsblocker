@@ -39,4 +39,6 @@ ____________________________________________________________________
 #### Tennivalók, tervek, 5letek
 - kamupártok FB oldalainak felvétele/felderítése
 - álhíroldalak FB jelenlétének feltérképezése
-- oldalak elérhetőségének (fél)automatikus ellenőrzése (curl -Is, ha nem 404, akkor webkit2png | CutyCapt)
+- oldalak elérhetőségének (fél)automatikus ellenőrzése:
+..* Script az olyan oldalak kigyomláláshoz amelyek eleve nem is elérhetőek - egysorosakkal megoldható
+..* CutyCapt + script az elérhető oldalak 'viszonylag' gyors, manuális ellenőrzéséhez - **kész**
