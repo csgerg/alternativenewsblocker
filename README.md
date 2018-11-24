@@ -41,4 +41,5 @@ ____________________________________________________________________
 - álhíroldalak FB jelenlétének feltérképezése
 - oldalak elérhetőségének (fél)automatikus ellenőrzése:
 ..* Script az olyan oldalak kigyomláláshoz amelyek eleve nem is elérhetőek - egysorosakkal megoldható
+
 ..* CutyCapt + script az elérhető oldalak 'viszonylag' gyors, manuális ellenőrzéséhez - **kész**
