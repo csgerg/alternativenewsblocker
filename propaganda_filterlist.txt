@@ -1,20 +1,20 @@
 [Adblock Plus 2.0]
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!Title: ANB PropagandaSTOP
-!Homepage: https://github.com/csgerg/alternativenewsblocker/wiki
-!Licence: GPLv3
+! Homepage: https://github.com/csgerg/alternativenewsblocker/wiki
+! Licence: GPLv3
+! Title: ANB PropagandaSTOP
+! Expires: 16 hours
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! szabaly optimalizalas / rule optimization
-!
+!   szabaly optimalizalas / rule optimization
 ! - http://adblockplus.org/en/filters
 ! - Redundancy checker: https://arestwo.org/famlam/redundantRuleChecker.html
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                       ANB PropagandaSTOP                                 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
+!   Forrasok:
 !https://tldr.444.hu/2017/05/18/fideszmedia
 !https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
 ! Inform Média Lapkiadó Kft.
 !
