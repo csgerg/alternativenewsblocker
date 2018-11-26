@@ -41,4 +41,4 @@ ____________________________________________________________________
 * álhíroldalak FB jelenlétének feltérképezése
 * oldalak elérhetőségének (fél)automatikus ellenőrzése:
   * Script az olyan oldalak kigyomláláshoz amelyek eleve nem is elérhetőek - egysorosakkal megoldható
-  * [Script](https://raw.githubusercontent.com/t1csi/alternativenewsblocker/master/capture-screenshots.sh) (w/ [CutyCapt](http://cutycapt.sourceforge.net/)) az elérhető oldalak 'viszonylag' gyors, manuális ellenőrzéséhez - **kész**
+  * [Script](https://raw.githubusercontent.com/t1csi/alternativenewsblocker/master/capture-screenshots.sh) (w/ [webkit2png](http://www.paulhammond.org/webkit2png/)) az elérhető oldalak 'viszonylag' gyors, manuális ellenőrzéséhez - **kész**
