@@ -132,11 +132,9 @@
 ##a[href*="blogstar.hu"]
 ##a[href*="demokrata.hu"]
 ##a[href*="hungaryfirst.hu"]
-
 ##a[href*="pestisracok.hu"]
 ##a[href*="polgarportal.hu"]
 ##a[href*="promenad.hu"]
-
 ##a[href*="vasarhely24.com"]
 ##a[href*="vasarhelyitv.hu"]
 !
