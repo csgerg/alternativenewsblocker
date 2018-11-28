@@ -104,13 +104,16 @@
 ##a[href*="vitorlazasmagazin.hu"]
 ##a[href*="vs.hu"]
 ##a[href*="zaol.hu"]
-!
-! K4A Lapkiadó (Schmidt Mária)
-!
 ##a[href*="figyelo.hu"]
 ##a[href*="trendmagazin.hu"]
+##a[href*="888.hu"]
+##a[href*="lokal.hu"]
+##a[href*="faktor.hu"]
+##a[href*="ripost.hu"]
+##a[href*="mandiner.hu"]
+##a[href*="szegedma.hu"]
 !
-! Lapcom Zrt, Tv2, stb (Andy Vajna)
+! Tv2, Radio1 (Andy Vajna)
 !
 ##a[href*="radio1.hu"]
 ##a[href*="tenyek.hu"]
@@ -119,16 +122,6 @@
 ! Magyar Hírlap Kiadói Kft. (Széles Gábor)
 !
 ##a[href*="magyarhirlap.hu"]
-!
-! Modern Media Group  (Habony Árpád)
-!
-##a[href*="888.hu"]
-##a[href*="lokal.hu"]
-!
-! Ripost Média Szolgáltató és Kommunikációs Kft. / Nouvelle Media Kft. (Ómolnár Miklós)
-!
-##a[href*="faktor.hu"]
-##a[href*="ripost.hu"]
 !
 ! Ungár Péter (LMP)
 !
@@ -139,11 +132,11 @@
 ##a[href*="blogstar.hu"]
 ##a[href*="demokrata.hu"]
 ##a[href*="hungaryfirst.hu"]
-##a[href*="mandiner.hu"]
+
 ##a[href*="pestisracok.hu"]
 ##a[href*="polgarportal.hu"]
 ##a[href*="promenad.hu"]
-##a[href*="szegedma.hu"]
+
 ##a[href*="vasarhely24.com"]
 ##a[href*="vasarhelyitv.hu"]
 !
