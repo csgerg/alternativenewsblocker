@@ -1,32 +1,147 @@
 [Adblock Plus 2.0]
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!Title: ANB PropagandaSTOP
-!Homepage: https://github.com/csgerg/alternativenewsblocker/wiki
-!Licence: GPLv3
+! Homepage: https://github.com/csgerg/alternativenewsblocker/wiki
+! Licence: GPLv3
+! Title: ANB PropagandaSTOP
+! Expires: 16 hours
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! szabaly optimalizalas / rule optimization
-!
+!   szabaly optimalizalas / rule optimization
 ! - http://adblockplus.org/en/filters
 ! - Redundancy checker: https://arestwo.org/famlam/redundantRuleChecker.html
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                       ANB PropagandaSTOP                                 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!
+!   Forrasok:
 !https://tldr.444.hu/2017/05/18/fideszmedia
+!https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! 
+!  Közép-európai Sajtó és Média Alapítvány
 !
-!Modern Media
-!
-##a[href*="origo.hu"]
-##a[href*="lokal.hu"]
-##a[href*="888.hu"]
-##a[href*="figyelo.hu"]
-##a[href*="ripost.hu"]
-##a[href*="tv2.hu"]
-##a[href*="radio1.hu"]
+##a[href*="24ora.hu"]
+##a[href*="astronet.hu"]
+##a[href*="automotor.hu"]
+##a[href*="autonavigator.hu"]
+##a[href*="bama.hu"]
+##a[href*="baon.hu"]
+##a[href*="beol.hu"]
+##a[href*="bmhirlap.hu"]
+##a[href*="boon.hu"]
+##a[href*="borsonline.hu"]
+##a[href*="csupasport.hu"]
+##a[href*="delmagyar.hu"]
+##a[href*="designbazar.hu"]
+##a[href*="dietaesfitnesz.hu"]
+##a[href*="dunantulinaplo.hu"]
+##a[href*="duol.hu"]
+##a[href*="echotv.hu"]
+##a[href*="eszak.hu"]
+##a[href*="f1csatorna.hu"]
+##a[href*="facebook.com/dietaesfitnesz"]
+##a[href*="facebook.com/videkize"]
+##a[href*="fannykonyha.hu"]
+##a[href*="feol.hu"]
+##a[href*="fourfourtwo.hu"]
+##a[href*="gongradio.hu"]
+##a[href*="gyaszhir.hu"]
+##a[href*="haon.hu"]
+##a[href*="heol.hu"]
+##a[href*="hevesmegyeihirlap.hu"]
+##a[href*="hirtv.hu"]
+##a[href*="inform.hu"]
+##a[href*="informmedia.hu"]
+##a[href*="ingatlanbazar.hu"]
+##a[href*="investor.hu"]
+##a[href*="jegyed.hu"]
+##a[href*="karcfm.hu"]
+##a[href*="kelet.hu"]
+##a[href*="kemma.hu"]
+##a[href*="kisalfold.hu"]
+##a[href*="lakaskultura.hu"]
+##a[href*="lapcentrum.hu"]
+##a[href*="lapcom.hu"]
+##a[href*="licitaljram.hu"]
+##a[href*="life.hu"]
+##a[href*="lifetvmedia.hu"]
+##a[href*="likebalaton.hu"]
+##a[href*="magyaridok.hu"]
+##a[href*="mainap.hu"]
+##a[href*="mgkiado.hu"]
+##a[href*="mindmegette.hu"]
+##a[href*="mon.hu"]
+##a[href*="naplo.hu"]
+##a[href*="nemzetisport.hu"]
+##a[href*="nepszava.hu"]
+##a[href*="nool.hu"]
 ##a[href*="nwmgroup.hu"]
+##a[href*="origo.hu"]
+##a[href*="ozonetvmedia.hu"]
+##a[href*="partfm.hu"]
+##a[href*="petofinepe.hu"]
+##a[href*="pink.hu"]
+##a[href*="premiummagazin.hu"]
+##a[href*="regiohir.hu"]
+##a[href*="retroradio.hu"]
+##a[href*="she.hu"]
+##a[href*="somogyihirlap.hu"]
+##a[href*="sonline.hu"]
+##a[href*="szoljon.hu"]
+##a[href*="szon.hu"]
+##a[href*="szuperinfo.hu"]
+##a[href*="techjobs.hu"]
+##a[href*="teol.hu"]
+##a[href*="tolnainepujsag.hu"]
+##a[href*="topaukcio.hu"]
+##a[href*="travelo.hu"]
+##a[href*="tvmusor.hu"]
+##a[href*="ujneplap.hu"]
+##a[href*="uzletresz.hu"]
+##a[href*="vaol.hu"]
+##a[href*="vasarnapihirek.hu"]
+##a[href*="veol.hu"]
+##a[href*="vg.hu"]
+##a[href*="videkize.hu"]
+##a[href*="vitorlazasmagazin.hu"]
+##a[href*="vs.hu"]
+##a[href*="zaol.hu"]
+##a[href*="figyelo.hu"]
+##a[href*="trendmagazin.hu"]
+##a[href*="888.hu"]
+##a[href*="lokal.hu"]
+##a[href*="faktor.hu"]
+##a[href*="ripost.hu"]
+##a[href*="mandiner.hu"]
+##a[href*="szegedma.hu"]
+!
+! Tv2, Radio1 (Andy Vajna)
+!
+##a[href*="radio1.hu"]
+##a[href*="tenyek.hu"]
+##a[href*="tv2.hu"]
+!
+! Magyar Hírlap Kiadói Kft. (Széles Gábor)
+!
+##a[href*="magyarhirlap.hu"]
+!
+! Ungár Péter (LMP)
+!
+##a[href*="azonnali.hu"]
+!
+! És sokan mások...
+!
+##a[href*="blogstar.hu"]
+##a[href*="demokrata.hu"]
+##a[href*="hungaryfirst.hu"]
+##a[href*="pestisracok.hu"]
+##a[href*="polgarportal.hu"]
+##a[href*="promenad.hu"]
+##a[href*="vasarhely24.com"]
+##a[href*="vasarhelyitv.hu"]
+!
+! Plakátcégek
+!
+##a[href*="esma.hu"]
+##a[href*="hungaroplakat.hu"]
 !
 !Közvélemény kutatók
 !
@@ -37,23 +152,75 @@
 !
 ##a[href*="kormany.hu"]
 !
-!Közmédia
+!"""Köz"""média
 !
 ##a[href*="mtva.hu"]
+##a[href*="m1.hu"]
+##a[href*="hirado.hu"]
+##a[href*="rtv.rs"]
+##a[href*="m4sport.hu"]
+##a[href*="mediaklikk.hu"]
 !
-!Mediaworks
+! Social media
+! MKKP Hoax Radar gyűjtése https://mkkp-hoax-radar.lazos.me/
 !
-##a[href*="echotv.hu"]
-##a[href*="magyaridok.hu"]
-##a[href*="karcfm.hu"]
-##a[href*="mediaworks.hu"]
-##a[href*="bama.hu"]
-##a[href*="heol.hu"]
-##a[href*="baon.hu"]
-##a[href*="beol.hu"]
-##a[href*="keol.hu"]
-##a[href*="kemma.hu"]
-##a[href*="teol.hu"]
-##a[href*="teol.hu"]
-##a[href*="sonline.hu"]
-##a[href*="szoljon.hu"]
+##a[href*="facebook.com/hirtv"]
+##a[href*="youtube.com/channel/UC9wjv8sATbMXBItmav6xKcw"]
+##a[href*="facebook.com/888ponthu"]
+##a[href*="facebook.com/bama.hu"]
+##a[href*="facebook.com/face.baon.hu"]
+##a[href*="facebook.com/dunaujvarosihirlap"]
+##a[href*="facebook.com/feol.hu"]
+##a[href*="facebook.com/heolhu"]
+##a[href*="facebook.com/hirado.hu"]
+##a[href*="facebook.com/kemmaponthu"]
+##a[href*="facebook.com/nool.hu"]
+##a[href*="facebook.com/OrigoHirek"]
+##a[href*="facebook.com/pestisracok.hu"]
+##a[href*="facebook.com/sonline.hu"]
+##a[href*="facebook.com/szoljon"]
+##a[href*="facebook.com/TeolhuUj"]
+##a[href*="facebook.com/tv2hun"]
+##a[href*="facebook.com/vasnepe.hu"]
+##a[href*="facebook.com/naploonline.hu"]
+##a[href*="facebook.com/zalaihirlap.hu"]
+##a[href*="facebook.com/echotelevizio"]
+##a[href*="facebook.com/Mélymagyar-és-vegyes-Echo-TV-1839650239594481"]
+##a[href*="facebook.com/magyaridoknapilap"]
+!
+! Fidesz és szatellitpártjai
+!
+##a[href*="fidesz.hu"]
+##a[href*="kdnp.hu"]
+##a[href*="mszp.hu"]
+##a[href*="dkp.hu"]
+##a[href*="lehetmas.hu"]
+##a[href*="mihazank.hu"]
+##a[href*="jobbik.hu"]
+!
+! Kamupárok 2018.
+!
+!facebook.com/szempart/
+!facebook.com/KozosNevezo/
+##a[href*="kozosnevezo.hu"]
+!facebook.com/EuropaiRomaKeresztenyekJobbleteertDemokratikusPart/
+!facebook.com/IranytuPart/
+##a[href*="iranytupart.hu"]
+!facebook.com/NetPart/
+##a[href*="netpart.hu"]
+!MAGYARORSZÁGON ÉLŐ DOLGOZÓ ÉS TANULÓ EMBEREK PÁRTJA
+!facebook.com/kosszpart/
+!REND ÉS ELSZÁMOLTATÁS PÁRT
+##a[href*="www.miepinfo.hu"]
+##a[href*="www.eredetimiep.hu"]
+!facebook.com/csaladokpartja/
+##a[href*="csaladokpartja.hu"]
+!facebook.com/osszefogaspart/ (megszűnt)
+##a[href*="osszefogaspart.hu"]
+!facebook.com/emmopart.hu/
+!Haza Mindenkié Párt
+!facebook.com/nempart/
+!facebook.com/A-MI-P%C3%A1rtunk-IMA-Sz%C3%A1va-Vince-1991075427574302/?rc=p
+!facebook.com/hajrapart/
+!facebook.com/H%C3%A1tr%C3%A1nyos-Helyzet%C5%B1ek-P%C3%A1rtja-2315096182050145/
+!facebook.com/lendulettel/
