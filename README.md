@@ -1,6 +1,7 @@
 # Álhír/propaganda szűrőlisták
 
-Köszönöm [t1csi](https://github.com/t1csi/alternativenewsblocker) a frissítést!
+Köszönöm [t1csi](https://github.com/t1csi/alternativenewsblocker) a frissítést!  
+
 A lista két részre van bontva
 1. AlternativeNewsBlocker szolgál a magyar nyelvű álhírek, illetve az idegen nyelvű, főképpen orosz propaganda-oldalak szűrésére.
 A következő forrásokat használtam fel:
