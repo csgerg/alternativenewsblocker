@@ -38,7 +38,7 @@ Az egyéni lista hozzáadásakor be kell másolni az alábbi hivatkozást:
 Ezen kívül Androidon a [Fennec Browser](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) támogatja az asztali rendszereken megszokott böngésző-alapú szűrést.
 
 ### NGYIK: Mit olvassak, nézzek, hallgassak, amikor annyi mindent blokkol a lista?
-Hát... Sok választás nincs, de azért (még) van. A teljesség igénye nélkül kigyűjtöttem ide azokat a (többé-kevésbé), (egyrészt-másrészt), még függetlennek mondható hírforrásokat, ahonnét (viszonylag) hiteles hírekhez lehet jutni. A palettán vannak jobbos, konzervatív, liberális és balos beállítottságú médiumok, a közös jellemzőjük a (némelyek esetében viszonylagos) függetlenség. A viszonylagost úgy kell érteni, ahogy eddig az indexhez is hasonlóan, egyes oldalakon jelennek meg kormánykritikus vélemények, viszont a hirdetési felületek értékesítésénél már láthatóvá válnak olyan cégek, amelyek nyilvánvalóan kormányközeli kézben vannak. 
+Hát... Sok választás nincs, de azért (még) van. A teljesség igénye nélkül kigyűjtöttem ide azokat a (többé-kevésbé), (egyrészt-másrészt), még függetlennek mondható hírforrásokat, ahonnét (viszonylag) hiteles hírekhez lehet jutni. A palettán vannak jobbos, konzervatív, liberális és balos beállítottságú médiumok, a közös jellemzőjük a (némelyek esetében viszonylagos) függetlenség. A viszonylagost úgy kell érteni, ahogy 2020.09.01-ig az indexhez hasonlóan megjelennek kormánykritikus anyagok, viszont a hirdetési felületek értékesítésénél már láthatóvá válnak olyan cégek, amelyek nyilvánvalóan kormányközeli kézben vannak. 
 ### Gazdaság:
 [[G7.hu]](https://g7.hu/); [[Mfor.hu]](https://mfor.hu) & [[Privátbankár]](https://privatbankar.hu/); [[Piac és Profit]](https://piacesprofit.hu/); [[Portfolio.hu]](https://www.portfolio.hu/) és a [[Portfolio Csoport]](https://portfoliocsoport.hu/) oldalai.
 ### Hírek, közélet, publicisztika:
@@ -49,7 +49,6 @@ Hát... Sok választás nincs, de azért (még) van. A teljesség igénye nélk�
 [[Gazdasági Rádió - Trend FM]](https://trendfm.hu/); [[Klubrádió]](https://www.klubradio.hu/); [[Sláger FM (Juventus Rádió) (103.9)]](https://www.slagerfm.hu/)
 ### Véleményvezérek (erősen szubjektív!)
 [[Kiszamoló.hu]](https://kiszamolo.hu/) (Gazdaság); [[Diétás Magyar Múzsa]](https://www.facebook.com/dmagyarmuzsa/) (Közéleti megmondó, publicisztika, hírszemle); [[Partizán]](https://www.youtube.com/channel/UCEFpEvuosfPGlV1VyUF6QOA) (Politika, tényfeltáró anyagok); [[K-monitor]](https://k-monitor.hu/hirek) (korrupciós sajtó-adatbázis)
-___________________
 ____________________________________________________________________
 #### Tennivalók, tervek, 5letek
 * kamupártok FB oldalainak felvétele/felderítése
