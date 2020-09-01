@@ -14,8 +14,9 @@
 !   Forrasok:
 !https://tldr.444.hu/2017/05/18/fideszmedia
 !https://adatujsagiras.atlatszo.hu/2018/01/11/fedezze-fel-a-kormanykozeli-mediabirodalmat/
+!https://atlo.team/media2020/
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! 
+!
 !  Közép-európai Sajtó és Média Alapítvány
 !
 ##a[href*="24ora.hu"]
@@ -104,16 +105,13 @@
 ##a[href*="vitorlazasmagazin.hu"]
 ##a[href*="vs.hu"]
 ##a[href*="zaol.hu"]
+!
+! K4A Lapkiadó (Schmidt Mária)
+!
 ##a[href*="figyelo.hu"]
 ##a[href*="trendmagazin.hu"]
-##a[href*="888.hu"]
-##a[href*="lokal.hu"]
-##a[href*="faktor.hu"]
-##a[href*="ripost.hu"]
-##a[href*="mandiner.hu"]
-##a[href*="szegedma.hu"]
 !
-! Tv2, Radio1 (Andy Vajna)
+! Lapcom Zrt, Tv2, stb (Andy Vajna)
 !
 ##a[href*="radio1.hu"]
 ##a[href*="tenyek.hu"]
@@ -123,18 +121,44 @@
 !
 ##a[href*="magyarhirlap.hu"]
 !
+! Modern Media Group  (Habony Árpád)
+!
+##a[href*="888.hu"]
+##a[href*="lokal.hu"]
+!
+! Ripost Média Szolgáltató és Kommunikációs Kft. / Nouvelle Media Kft. (Ómolnár Miklós)
+!
+##a[href*="faktor.hu"]
+##a[href*="ripost.hu"]
+!
 ! Ungár Péter (LMP)
 !
 ##a[href*="azonnali.hu"]
+!
+! CEMP-X | Indamedia
+!
+##a[href*="index.hu"]
+##a[href*="velvet.hu"]
+##a[href*="totalcar.hu"]
+##a[href*="napi.hu"]
+##a[href*="divany.hu"]
+##a[href*="femina.hu"]
+##a[href*="sobors.hu"]
+##a[href*="retikul.hu"]
+##a[href*="port.hu"]
+##a[href*="blog.hu"]
+##a[href*="indavideo.hu"]
 !
 ! És sokan mások...
 !
 ##a[href*="blogstar.hu"]
 ##a[href*="demokrata.hu"]
 ##a[href*="hungaryfirst.hu"]
+##a[href*="mandiner.hu"]
 ##a[href*="pestisracok.hu"]
 ##a[href*="polgarportal.hu"]
 ##a[href*="promenad.hu"]
+##a[href*="szegedma.hu"]
 ##a[href*="vasarhely24.com"]
 ##a[href*="vasarhelyitv.hu"]
 !
@@ -157,7 +181,6 @@
 ##a[href*="mtva.hu"]
 ##a[href*="m1.hu"]
 ##a[href*="hirado.hu"]
-##a[href*="rtv.rs"]
 ##a[href*="m4sport.hu"]
 ##a[href*="mediaklikk.hu"]
 !
@@ -192,11 +215,9 @@
 !
 ##a[href*="fidesz.hu"]
 ##a[href*="kdnp.hu"]
-##a[href*="mszp.hu"]
-##a[href*="dkp.hu"]
-##a[href*="lehetmas.hu"]
 ##a[href*="mihazank.hu"]
-##a[href*="jobbik.hu"]
+##a[href*="lehetmas.hu"]
+##a[href*="mszp.hu"]
 !
 ! Kamupárok 2018.
 !
