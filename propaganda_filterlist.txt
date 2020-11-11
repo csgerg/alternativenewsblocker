@@ -164,6 +164,12 @@
 ##a[href*="szegedma.hu"]
 ##a[href*="vasarhely24.com"]
 ##a[href*="vasarhelyitv.hu"]
+##a[href*="kontra.hu"]
+##a[href*="facebook.com/kontrahu"]
+##a[href*="youtube.com/channel/UCGbD1v9-A-dviXSpGn77ECw"]
+##a[href*="instagram.com/kontrahu"]
+##a[href*="soundcloud.com/kontrahu"]
+##a[href*="spotify.com/show/11gR2HagkDjyqQxvL6A30f"]
 !
 ! Plakátcégek
 !
